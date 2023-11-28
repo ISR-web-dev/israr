@@ -7,7 +7,7 @@ const dataTestimonial = [
     },
     {
         name: 'JOSHI ADS',
-        testimonials: '"IDK"' 
+        testimonials: '"It’s fine. No issues."' 
     }
 ]
 
